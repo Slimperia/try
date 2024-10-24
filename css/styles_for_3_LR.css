@@ -1,0 +1,52 @@
+.contayner{
+    display: flex;
+    padding: 10px;
+    font-size: bold;
+    color: white;
+}
+.one{
+    background-color: red;
+    height: 200px;
+    width: 250px;
+    color: white;
+    margin: 10px;
+}
+.two{
+    background-color: yellow;
+    height: 200px;
+    width: 250px;
+    color: brown;
+    margin: 10px;
+}
+.three{
+    background: url(../img/efd0251928929d5797af898456926300.jpg);
+    height: 200px;
+    width: 250px;
+    color: white;
+    margin: 10px;
+}
+.for_second{
+    color: black;
+    height: 20px;
+    width: 20px;
+    border: solid;
+}
+.for_third{
+    background-color: green;
+    height: auto;
+    width: auto;
+    padding: 30px;
+}
+.for_third_2{
+    background-color: blue;
+    height: auto;
+    width: auto;
+    padding: 54px;
+    
+}
+.for_third_3{
+    background-color: red;
+    width: auto;
+    height: auto;
+    padding: 29px;
+}
